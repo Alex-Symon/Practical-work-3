@@ -1,0 +1,10 @@
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Практична №4\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.csprojAssemblyReference.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Практична №4\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.Form1.resources
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Практична №4\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.Properties.Resources.resources
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Практична №4\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.csproj.GenerateResource.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Практична №4\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.csproj.CoreCompileInputs.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Практична №4\CSharpLab2\SwitchProjectWinForms\bin\Debug\SwitchProjectWinForms.exe.config
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Практична №4\CSharpLab2\SwitchProjectWinForms\bin\Debug\SwitchProjectWinForms.exe
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Практична №4\CSharpLab2\SwitchProjectWinForms\bin\Debug\SwitchProjectWinForms.pdb
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Практична №4\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.exe
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Практична №4\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.pdb

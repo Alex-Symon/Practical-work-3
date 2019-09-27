@@ -1,0 +1,7 @@
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMLoops\ForConsole2\bin\Debug\ForConsole2.exe.config
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMLoops\ForConsole2\bin\Debug\ForConsole2.exe
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMLoops\ForConsole2\bin\Debug\ForConsole2.pdb
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMLoops\ForConsole2\obj\Debug\ForConsole2.csproj.CoreCompileInputs.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMLoops\ForConsole2\obj\Debug\ForConsole2.exe
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMLoops\ForConsole2\obj\Debug\ForConsole2.pdb
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMLoops\ForConsole2\obj\Debug\ForConsole2.csprojAssemblyReference.cache

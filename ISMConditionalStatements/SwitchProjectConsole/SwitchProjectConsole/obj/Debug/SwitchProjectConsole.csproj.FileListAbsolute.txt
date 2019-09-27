@@ -1,0 +1,14 @@
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\SwitchProjectConsole\SwitchProjectConsole\obj\Debug\SwitchProjectConsole.csprojAssemblyReference.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\SwitchProjectConsole\SwitchProjectConsole\obj\Debug\SwitchProjectConsole.csproj.CoreCompileInputs.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\SwitchProjectConsole\SwitchProjectConsole\bin\Debug\SwitchProjectConsole.exe.config
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\SwitchProjectConsole\SwitchProjectConsole\bin\Debug\SwitchProjectConsole.exe
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\SwitchProjectConsole\SwitchProjectConsole\bin\Debug\SwitchProjectConsole.pdb
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\SwitchProjectConsole\SwitchProjectConsole\obj\Debug\SwitchProjectConsole.exe
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\SwitchProjectConsole\SwitchProjectConsole\obj\Debug\SwitchProjectConsole.pdb
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Практична №4\ISMConditionalStatements\SwitchProjectConsole\SwitchProjectConsole\bin\Debug\SwitchProjectConsole.exe.config
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Практична №4\ISMConditionalStatements\SwitchProjectConsole\SwitchProjectConsole\bin\Debug\SwitchProjectConsole.exe
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Практична №4\ISMConditionalStatements\SwitchProjectConsole\SwitchProjectConsole\bin\Debug\SwitchProjectConsole.pdb
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Практична №4\ISMConditionalStatements\SwitchProjectConsole\SwitchProjectConsole\obj\Debug\SwitchProjectConsole.csprojAssemblyReference.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Практична №4\ISMConditionalStatements\SwitchProjectConsole\SwitchProjectConsole\obj\Debug\SwitchProjectConsole.csproj.CoreCompileInputs.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Практична №4\ISMConditionalStatements\SwitchProjectConsole\SwitchProjectConsole\obj\Debug\SwitchProjectConsole.exe
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Практична №4\ISMConditionalStatements\SwitchProjectConsole\SwitchProjectConsole\obj\Debug\SwitchProjectConsole.pdb

@@ -1,0 +1,7 @@
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMLoops\DoWhileConsole1\bin\Debug\DoWhileConsole1.exe.config
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMLoops\DoWhileConsole1\bin\Debug\DoWhileConsole1.exe
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMLoops\DoWhileConsole1\bin\Debug\DoWhileConsole1.pdb
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMLoops\DoWhileConsole1\obj\Debug\DoWhileConsole1.csproj.CoreCompileInputs.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMLoops\DoWhileConsole1\obj\Debug\DoWhileConsole1.exe
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMLoops\DoWhileConsole1\obj\Debug\DoWhileConsole1.pdb
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMLoops\DoWhileConsole1\obj\Debug\DoWhileConsole1.csprojAssemblyReference.cache
